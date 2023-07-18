@@ -1,0 +1,91 @@
+.block1{
+
+		width: 1500px;
+		height: 1050px;
+}
+.header{
+width: 2000px;
+height: 200px;
+text-align: left;
+color:lightpink;
+font-size:25px;
+padding-left:340px;
+font-family:Georgia;
+}
+body{
+	background:radial-gradient(pink,purple);
+}
+.user1{
+	width: 700px;
+	height: 120px;
+	border: 1px solid black;
+	float: left;
+	margin:5px;
+}
+.user2{
+	width: 700px;
+	height: 120px;
+	border: 1px solid black;
+	float: left;
+	margin:5px;
+}
+.user3{
+	width: 700px;
+	height: 120px;
+	border: 1px solid black;
+	float: left;
+	margin:5px;
+}
+.user4{
+	width: 700px;
+	height: 120px;
+	border: 1px solid black;
+	float: left;
+	margin:5px;
+}
+
+.text{
+	background: grey;
+	width: 700px;
+	height: 120px;
+	float:left;
+font-size:24px;
+}
+.ava1{
+	border-radius: 50%;
+width: 100px;
+height: 60px;
+float:left;
+}
+.p2{
+	
+	font-size:12px;
+}
+.user5{
+	width: 700px;
+	height: 120px;
+	border: 1px solid black;
+	float: left;
+	margin:5px;
+}
+.user6{
+	width: 700px;
+	height: 120px;
+	border: 1px solid black;
+	float: left;
+	margin:5px;
+}
+.user7{
+	width: 700px;
+	height: 120px;
+	border: 1px solid black;
+	float: left;
+	margin:5px;
+}
+.user8{
+	width: 700px;
+	height: 120px;
+	border: 1px solid black;
+	float: left;
+	margin:5px;
+}
